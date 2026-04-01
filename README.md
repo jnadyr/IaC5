@@ -1,1 +1,1 @@
-Projeto IaC na AWS com Kubernets.
+Projeto IaC Terraform na AWS com Kubernets.
